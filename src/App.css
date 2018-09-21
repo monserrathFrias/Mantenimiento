@@ -1,0 +1,32 @@
+.body{
+  min-height: 500px;
+}.otros{
+  background-color: black;
+  text-align: right;
+
+}
+.BarraArri{
+  background-color: black;
+  text-align: left;
+}
+
+.icono{
+  background-color: #black;
+  min-height: 500px;
+}
+.conte{
+  background-color: black;
+  padding: 200px;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.conte2{
+  background-color: white;
+  padding: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
